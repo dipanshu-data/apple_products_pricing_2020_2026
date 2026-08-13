@@ -72,5 +72,7 @@ Sale events genuinely work: average discount jumps by +13.4 percentage points du
 ### Screenshot
 
 Show what the dashboard looks like.![Alt text](https://github.com/username/repo/assets/image.png)
-Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+ ![Dashboard Preview](https://github.com/dipanshu-data/apple_products_pricing_2020_2026/blob/main/Overview.png)
+ ![Dashboard Preview](https://github.com/dipanshu-data/apple_products_pricing_2020_2026/blob/main/Platform%20Deep-dive.png)
+ ![Dashboard Preview](https://github.com/dipanshu-data/apple_products_pricing_2020_2026/blob/main/Stock%20health%20%26%20Product%20condition.png)
+
