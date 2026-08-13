@@ -68,3 +68,9 @@ A matrix listing **Model Name, Product Category, Out-of-Stock %, and Average Dis
 ## Business Impact & Insights 
 
 Sale events genuinely work: average discount jumps by +13.4 percentage points during active sale events vs baseline pricing. Platform discounting isn't uniform: one platform discounts deeper overall, but that gap isn't consistent across product categories. Inventory planning: Identify which specific Model/Platform combinations chronically run out of stock, so restocking can be prioritized before the next sale event. Platform strategy: Instead of a obscure "focus on Amazon or Flipkart," the category-level breakdown lets a team decide per product line where to prioritize listings, ad spend, or stock allocation.
+
+### Screenshot
+
+Show what the dashboard looks like.![Alt text](https://github.com/username/repo/assets/image.png)
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
